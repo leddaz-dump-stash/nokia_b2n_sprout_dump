@@ -1,0 +1,14 @@
+# B2N_00WW_FIH-user 10 QKQ1.190828.002 00WW_4_15D release-keys
+- manufacturer: 
+- platform: sdm660
+- codename: B2N_sprout
+- flavor: B2N_00WW_FIH-user
+- release: 10
+- id: QKQ1.190828.002
+- incremental: 00WW_4_15D
+- tags: release-keys
+- fingerprint: Nokia/Onyx_00WW/B2N_sprout:10/QKQ1.190828.002/00WW_4_15D:user/release-keys
+- is_ab: true
+- brand: Nokia
+- branch: B2N_00WW_FIH-user-10-QKQ1.190828.002-00WW_4_15D-release-keys
+- repo: nokia_b2n_sprout_dump
